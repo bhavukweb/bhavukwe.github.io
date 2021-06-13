@@ -2,27 +2,27 @@ li {
   text-decoration: none;
   display: inline-block;
 }
-nav{
+nav {
   text-align: right;
   display: inline-block;
   padding-left: 10px;
 }
-main{
+main {
   background-color: rgb(255, 255, 245);
   background-size: cover;
   margin: 0;
   padding: 10px;
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   font-size: large;
 }
-a{
+a {
   text-decoration: none;
-  color:white;
+  color: white;
   background-color: black;
   border: 1px solid white;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
-header{
+header {
   background-color: orangered;
   height: 5vh;
   padding-top: 8px;
@@ -30,28 +30,28 @@ header{
   padding-left: 15px;
   padding-bottom: 8px;
 }
-*{
+* {
   margin: 0;
 }
-footer{
+footer {
   background-color: orangered;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
   height: 10vh;
   padding-top: 35px;
   padding-left: 5px;
   padding-right: 5px;
 }
-.title{
+.title {
   display: inline-block;
-  font-family: 'Limelight', cursive;
+  font-family: "Limelight", cursive;
 }
-h1{
+h1 {
   text-align: center;
-  font-family: 'Limelight',cursive;
+  font-family: "Limelight", cursive;
 }
-.display-img{
+.display-img {
   width: 350px;
 }
-.footersection{
+.footersection {
   text-align: center;
 }
